@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "Read the common concept for a panel. Where Ryan and Helen are sitting at the table and ryan goes makes a sound 'phew' and then in the next panel Helen makes the sound phow and then in the next panel Ryan makes a slightly louder sound. Phewh and then in the final panel it's the close-up of Helen and her mouth is really big and kind of in the shape of a sideways D. Where the flat side is down and the curved side is up and she makes a really big sound powh and in the last panel Ryan is rant has fallen over in his chair in a saying. Okay you win and turtle the cat has her is standing under the table and has her tail all poofed up because she's scared in these panels for the for for panels, three and four with the bigger sounds, ask the image generator to generate that text. But for the first two panels and the last panel don't have it Jenner the text and we'll just use our SVG normal text for those who include all of that in our concept txt file",
+    "images": []
+  },
+  {
+    "role": "assistant",
+    "content": "Here's the comic concept for **POEW** -- a 5-panel sound competition strip:\n\n**Panel 1** - Ryan and Helen at the table. Ryan says \"phew\" quietly. Turtle under the table. (SVG text)\n\n**Panel 2** - Same scene. Helen responds with \"phow\". (SVG text)\n\n**Panel 3** - Ryan escalates with a louder \"PHEWH\" -- this text will be **generated in the image** as large stylized text. Turtle starts looking worried.\n\n**Panel 4** - Close-up of Helen with an enormous sideways-D mouth, belting out \"POWH\" -- also **generated in the image** as huge bold text dominating the panel.\n\n**Panel 5** - Ryan has fallen over backwards in his chair saying \"okay, you win\". Helen sits calmly. Turtle is standing under the table with her tail fully poofed up from being startled. (SVG text)\n\nDoes this concept look good? Let me know if you want any changes before I start generating the panels.\n",
+    "images": []
+  }
+]

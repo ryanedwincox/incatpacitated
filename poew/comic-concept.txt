@@ -1,0 +1,95 @@
+Comic: POEW
+============
+A sound-making competition between Ryan and Helen at the dinner table,
+escalating until Helen wins with an enormous "POWH!" and Ryan tips over.
+
+Panel 1
+-------
+Image: Ryan and Helen sitting across from each other at a simple dinner table, seen from the side. Ryan has his mouth slightly open, making a small sound. Helen watches him from across the table. Turtle the cat is sitting under the table between them.
+Dialog: Ryan: "phew"
+Text method: SVG speech bubble (no text in generated image)
+ASCII sketch:
++---------------------------+
+|  [phew]                   |
+|   Ryan        Helen       |
+|   /_\          /_\        |
+|  /   \        /   \       |
+|  |   |--------|   |       |
+|  chair  table  chair      |
+|       [Turtle]            |
+|        (=^.^=)            |
++---------------------------+
+
+Panel 2
+-------
+Image: Same scene. Helen now has her mouth slightly open making a small sound back at Ryan. Ryan watches her. Turtle still under the table.
+Dialog: Helen: "phow"
+Text method: SVG speech bubble (no text in generated image)
+ASCII sketch:
++---------------------------+
+|                  [phow]   |
+|   Ryan        Helen       |
+|   /_\          /_\        |
+|  /   \        /   \       |
+|  |   |--------|   |       |
+|  chair  table  chair      |
+|       [Turtle]            |
+|        (=^.^=)            |
++---------------------------+
+
+Panel 3
+-------
+Image: Ryan leaning forward slightly, mouth open wider, making a bigger sound. The word "PHEWH" is rendered large in the image as part of the artwork. Helen watches. Turtle under the table starting to look concerned.
+Dialog: Ryan: "PHEWH" (rendered as text in the generated image)
+Text method: TEXT IN GENERATED IMAGE - ask image generator to include "PHEWH" as large stylized text
+ASCII sketch:
++---------------------------+
+|     P H E W H             |
+|   Ryan  >>    Helen       |
+|   /_\          /_\        |
+|  /   \        /   \       |
+|  |   |--------|   |       |
+|  chair  table  chair      |
+|       [Turtle]            |
+|        (=o.o=) worried    |
++---------------------------+
+
+Panel 4
+-------
+Image: Close-up of Helen's face. Her mouth is extremely wide open in a sideways D shape (flat side on bottom, curved side on top). The word "POWH" is rendered very large and bold in the image, dominating the panel. Extremely exaggerated open mouth.
+Dialog: Helen: "POWH" (rendered as text in the generated image)
+Text method: TEXT IN GENERATED IMAGE - ask image generator to include "POWH" as very large bold stylized text
+ASCII sketch:
++---------------------------+
+|                           |
+|   P O W H ! !             |
+|                           |
+|      Helen close-up       |
+|       curly hair          |
+|      .---------.          |
+|     /   O   O   \         |
+|    |   _______   |        |
+|    |  |       |  |  <-- D |
+|    |   \_____/   |  mouth |
+|     \           /         |
+|      '---------'          |
++---------------------------+
+
+Panel 5
+-------
+Image: Wide shot. Ryan has fallen backwards in his chair, legs up in the air, tipped over. Helen sits calmly at the table looking satisfied. Turtle the cat is standing under the table with her tail fully poofed up (scared/startled), fur standing on end.
+Dialog: Ryan: "okay, you win"
+Text method: SVG speech bubble (no text in generated image)
+ASCII sketch:
++---------------------------+
+|                           |
+|  [okay, you win]          |
+|   Ryan fallen    Helen    |
+|    /|  \          /_\     |
+|   / |   \        /   \   |
+|  legs up  -------|   |    |
+|   chair   table  chair   |
+|  tipped  [Turtle]         |
+|    over  (=>o.o<=) POOF!  |
+|          tail poofed      |
++---------------------------+

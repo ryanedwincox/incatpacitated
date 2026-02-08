@@ -1,0 +1,73 @@
+Comic: I'm Ready, I'm Not
+==========================
+
+Panel 1
+-------
+Image: Ryan sitting on a couch, relaxed, legs crossed. He's wearing a baseball hat, sweater, and pants. He's looking to the LEFT and whistling casually. A single music note floats near his mouth. The couch is simple with two cushions. Ryan is centered/left in the frame.
+Dialog: Helen (off-screen right): "I'm almost ready"
+ASCII sketch:
++----------------------------------+
+|                                  |
+|                 ( I'm almost  ) --->
+|                 (   ready     )  |
+|       ♪                          |
+|    <-[Ryan]                      |
+|    ___/  \___                    |
+|   |  couch   |                   |
+|   |__________|                   |
+|                                  |
++----------------------------------+
+Notes: Ryan looking LEFT. Single ♪ note. Speech bubble on right side, tail points off right edge (speaker off-screen).
+
+Panel 2
+-------
+Image: Ryan still sitting on the couch in the same relaxed pose, legs crossed. Same outfit. Now he's looking to the RIGHT and whistling. Two music notes (♪ ♫) float near his mouth. He hasn't moved from the couch.
+Dialog: Helen (off-screen right): "Just brushing my teeth"
+ASCII sketch:
++----------------------------------+
+|                                  |
+|                ( Just brushing ) --->
+|                ( my teeth     )  |
+|          ♪ ♫                     |
+|       [Ryan]->                   |
+|    ___/  \___                    |
+|   |  couch   |                   |
+|   |__________|                   |
+|                                  |
++----------------------------------+
+Notes: Ryan looking RIGHT. Two notes ♪ ♫. Speech bubble on right side, tail points off right edge.
+
+Panel 3
+-------
+Image: Ryan still sitting on the couch in the same pose, legs crossed. Same outfit. He's looking to the LEFT again and whistling happily. Three music notes (♫ ♪ ♫) float around his head in a little cluster. He still hasn't moved from the couch.
+Dialog: Helen (off-screen right): "Finding my phone"
+ASCII sketch:
++----------------------------------+
+|                                  |
+|               ( Finding my   ) --->
+|               (   phone      )  |
+|     ♫ ♪ ♫                       |
+|    <-[Ryan]                      |
+|    ___/  \___                    |
+|   |  couch   |                   |
+|   |__________|                   |
+|                                  |
++----------------------------------+
+Notes: Ryan looking LEFT again. Three notes ♫ ♪ ♫ clustered around head. Speech bubble on right side, tail points off right edge.
+
+Panel 4
+-------
+Image: Ryan is now lying down on the couch on his back, looking comfortable and content. Turtle (the cat) is sitting in loaf position on Ryan's chest, looking smug and settled. Ryan looks down at Turtle with a resigned/amused expression.
+Dialog: Helen (off-screen right): "I'm ready!" / Ryan: "I'm not"
+ASCII sketch:
++----------------------------------+
+|                                  |
+|  ( I'm not )    ( I'm ready! ) --->
+|       |                          |
+|    [Turtle]  <-- loaf on chest   |
+|  ======[Ryan lying down]======   |
+|   |          couch           |   |
+|   |__________________________|   |
+|                                  |
++----------------------------------+
+Notes: Ryan lying on couch. Turtle in loaf position on his chest. Helen's "I'm ready!" bubble on right with tail pointing off right edge. Ryan's "I'm not" bubble on left above him/Turtle.
